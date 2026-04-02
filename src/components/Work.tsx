@@ -22,7 +22,7 @@ const projects = [
     title: "Risker API",
     category: "Organisation Risk Assessment API",
     tools: "Assess Organizational Risk based on various parameters and generate risk scores.",
-    image: "/images/broki.png",
+    image: "/images/risker.png",
     link: "https://github.com/ishan-saha/risker",
   },
 ];
