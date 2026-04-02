@@ -7,14 +7,14 @@ const projects = [
   {
     title: "Telemetria",
     category: "Vendor Risk Management Platform",
-    tools: "AI Based Third-Party Risk assessment, Continuous Monitoring, Vendor audit, Exception Management.",
+    tools: "AI Based Third-Party Risk assessment, Continuous Monitoring.",
     image: "/images/telemetria.png",
     link: "https://telemetria.in",
   },
   {
     title: "PowerHouse Bypass",
     category: "Bypass EDR Solutions to run powershell",
-    tools: "Bypass EDR solutions to run powershell with custom encoders and obfuscation techniques.",
+    tools: "Bypass EDR solutions to run powershell with novel techniques.",
     image: "/images/whatsapp.png",
     link: "https://github.com/ishan-saha/PowerHouse",
   },
